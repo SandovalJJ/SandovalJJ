@@ -10,8 +10,6 @@
 - 💬 Ask me about **Cybersecurity, web-development, Laravel, PHP, JS, QA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/juan-sandoval-delgado-a80556273/**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
