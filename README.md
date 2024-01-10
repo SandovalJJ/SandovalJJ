@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandovalJJ](https://github.com/SandovalJJ)
 
-- 💬 Ask me about **Cybersecurity, web-development, Laravel, PHP, JS, QA**
+- 💬 Ask me about **Cybersecurity, web-development, Laravel, PHP, JS, OWASP TOP 10**
 
 - 📫 How to reach me **https://www.linkedin.com/in/juan-sandoval-delgado-a80556273/**
 <p align="left">
