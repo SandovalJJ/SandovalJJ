@@ -12,6 +12,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/juan-sandoval-delgado-a80556273/**
 <p align="left">
 
-  - Feel free to check my cybersecurity repository, there might be useful information that you can use 
+  Feel free to check my cybersecurity repository, there might be useful information that you can use 
 </p>
 
